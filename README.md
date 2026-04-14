@@ -27,7 +27,6 @@ This repository demonstrates hands-on experience with automated front-end testin
 
 ## Tools & Technologies
 
-* Playwright
 * Automated Testing Concepts
 * UI Testing
 * Test Execution
