@@ -5,7 +5,6 @@ This repository contains practical exercises, projects, and exam tasks completed
 ## Covered Topics
 
 * Automated UI Testing
-* Playwright
 * Locators & Selectors
 * Assertions
 * Waits & Synchronization
