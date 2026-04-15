@@ -1,35 +1,36 @@
 # Front-End Test Automation
 
-This repository contains practical exercises, projects, and exam tasks completed during the **Front-End Test Automation** course at SoftUni.
+This repository contains practical exercises, preparation tasks, and final projects completed during the **Front-End Test Automation** course at SoftUni.
+
+The course focuses on building practical skills in automated UI testing for web applications using structured automation practices and industry-standard tools.
 
 ## Covered Topics
 
+* Selenium WebDriver
+* Selenium Waits
 * Automated UI Testing
-* Locators & Selectors
-* Assertions
-* Waits & Synchronization
-* Dynamic Elements Handling
+* Page Object Model (POM)
+* Test Automation Architecture
 * End-to-End Testing
-* Practical Test Scenarios
 * Exam Preparation
 * Final Exam Project
 
 ## Repository Structure
 
-* **01-Waits-and-Synchronization** – Exercises focused on stable test execution
-* **02-FoodyTests-ExamPrepI** – Hands-on automation scenarios
-* **03-IdeaCenterTests-ExamPrepII** – Practice tasks for assessment
-* **04-Final-Exam** – Final course project
+* **01-Selenium-Waits** – exercises focused on synchronization and stable test execution
+* **02-Exam-Preparation-I** – practical automation project
+* **03-Exam-Preparation-II** – advanced automation practice
+* **04-TimeWise-Final-Exam** – final assessment project
+* **05-Page-Object-Model-Project** – structured automation project using the POM design pattern
 
 ## Why This Matters for QA
 
-This repository demonstrates hands-on experience with automated front-end testing, browser interaction, UI validation, and building stable tests for dynamic web applications.
+This repository demonstrates practical experience in automated UI testing, handling dynamic web elements, creating reliable test execution flows, and organizing maintainable automation code using the Page Object Model design pattern.
 
-## Tools & Technologies
+It reflects skills relevant for modern QA teams working with regression testing, UI validation, and scalable test automation frameworks.
 
-* Automated Testing Concepts
-* UI Testing
-* Test Execution
-* QA Best Practices
+## Note
+
+The course also includes Appium and CI/CD concepts. While not all topics are represented as separate projects, the repository contains the completed practical work created during training.
 
 Part of my QA Engineering learning journey.
